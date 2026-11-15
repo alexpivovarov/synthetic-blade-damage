@@ -1,0 +1,6 @@
+*.zip
+AeBAD/
+synthetic/
+synthetic_small/
+aebad_test_small/
+.DS_Store
